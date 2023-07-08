@@ -44,3 +44,34 @@ body{
     background: #F15B22;
     cursor: pointer;
 }
+/* previous */
+.headline_tag{
+    color:#151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+.previous_description{
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 17px;
+    margin-top: 25px;
+}
+.previous_item{
+    max-width: 415px;
+}
+.previous_item li{
+    list-style-type: '✔️';
+    color:#444343;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 8px;
+}
+
+.previous_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 105px;
+    margin: 140px 335px;
+}
