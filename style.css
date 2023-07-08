@@ -75,3 +75,27 @@ body{
     gap: 105px;
     margin: 140px 335px;
 }
+/* plan */
+.plan_section{
+    text-align: center;
+}
+.plan_title{
+    color:#151414;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+.plan_text{
+    color: #737272;
+    font-family: Work Sans;
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 0;
+}
+.plan_div{
+    display: flex;
+    gap: 100px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 150px 150px;
+}
